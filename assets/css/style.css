@@ -1,0 +1,5 @@
+ol{
+    list-style-type: decimal;
+    display:inline-block;
+    text-align: left;
+}
